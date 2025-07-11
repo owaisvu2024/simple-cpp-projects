@@ -1,41 +1,34 @@
 # Simple C++ Projects
 
-This repository contains a collection of simple C++ practice projects and university-style assignments. Each project is in its own folder for easy access and understanding.
+This repository contains simple C++ practice projects and university-style assignments.  
+All the .cpp files are directly in this repository for easy access.
 
 ## 📌 Projects Included
-- 📚 Book Management System
-- 🧮 Simple Calculator
-- 📅 Leap Year and Month Days Checker
+
+- 📚 book_management_system.cpp
+- 🧮 simple_calculator.cpp
+- 📅 check_leap_year_and_month_days.cpp
+
+---
 
 ## 🚀 How to Compile
-You can compile any of these C++ files using a standard compiler. Example command:
+
+Use any C++ compiler. Example command:
 
 ```bash
 g++ filename.cpp -o outputname
-```
+✅ Replace filename.cpp with your file name
+✅ Replace outputname with your desired executable name
 
-Replace `filename.cpp` with your file name, and `outputname` with your desired executable name.
+✨ Purpose
+These projects are created for learning and practicing basic C++ programming concepts:
 
-## ✅ Recommended Folder Structure
-```
-simple-cpp-projects/
-│
-├── BookManagementSystem/
-│   └── book_management_system.cpp
-│
-├── SimpleCalculator/
-│   └── simple_calculator.cpp
-│
-└── LeapYearMonthDays/
-    └── check_leap_year_and_month_days.cpp
-```
+File I/O
 
-## ✨ Purpose
-These projects are created for learning and practicing basic C++ programming concepts including:
+Control Structures
 
-- File I/O
-- Control Structures
-- Classes and Objects
-- Functions
+Classes and Objects
+
+Functions
 
 Feel free to explore and modify the code to enhance your understanding!
