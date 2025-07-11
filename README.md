@@ -1,13 +1,15 @@
 # Simple C++ Projects
 
 This repository contains simple C++ practice projects and university-style assignments.  
-All the .cpp files are directly in this repository for easy access.
+All the `.cpp` files are directly in this repository for easy access.
+
+---
 
 ## 📌 Projects Included
 
-- 📚 book_management_system.cpp
-- 🧮 simple_calculator.cpp
-- 📅 check_leap_year_and_month_days.cpp
+- 📚 **book_management_system.cpp** — A simple library book management system using file I/O
+- 🧮 **simple_calculator.cpp** — A basic command-line calculator
+- 📅 **check_leap_year_and_month_days.cpp** — Checks leap year and displays month days
 
 ---
 
